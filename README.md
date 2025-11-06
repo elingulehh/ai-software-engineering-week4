@@ -107,18 +107,5 @@ Screenshots
 <img width="1315" height="674" alt="image" src="https://github.com/user-attachments/assets/0170a224-5333-414a-b908-2af2fc874d91" />
 <img width="1544" height="689" alt="image" src="https://github.com/user-attachments/assets/32bed2ff-823c-4963-b962-8d738cddf3f6" />
 
-📦 Setup Instructions
-
-# Clone the repo
-git clone https://github.com/olwal2025/ai-software-engineering-week4
-cd ai-software-engineering-week4
-
-# Set up virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
 
 
