@@ -1,4 +1,5 @@
 🤖 AI in Software Engineering – Week 4 Project
+
 Welcome to our comprehensive exploration of AI applications in modern software engineering! This project showcases both theoretical understanding and hands-on implementation of AI-driven tools to enhance software development efficiency, accuracy, and fairness.
 
 📘 Overview
@@ -9,19 +10,23 @@ Automated testing using AI-enhanced frameworks
 Predictive analytics for resource allocation
 Ethical analysis of model bias and fairness
 Innovation in tooling for real-world software challenges
+
 🧠 Part 1: Theoretical Analysis (30%)
 🔹 Short Answer Questions
-We explored:
+I explored:
 
 How AI tools like GitHub Copilot reduce dev time (and their limitations)
 Supervised vs. unsupervised learning in bug detection
+
 Why bias mitigation is crucial in UX personalization
 🔹 Case Study Analysis
+
 Article Reviewed: AI in DevOps: Automating Deployment Pipelines
 📈 Key Takeaway: AIOps enhances deployment by:
 
 Predicting potential rollbacks via anomaly detection
 Dynamically allocating compute resources using usage trends
+
 💻 Part 2: Practical Implementation (60%)
 ✨ Task 1: AI-Powered Code Completion
 🔧 Tool Used: GitHub Copilot
